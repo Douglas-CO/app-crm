@@ -69,7 +69,7 @@ Para correr la app y compartirla por QR (tunnel):
 ```bash
 npm exec expo start --tunnel
 npm exec -- expo start --host tunnel --clear
-
+npm exec -- expo start --clear --tunnel
 ```
 
 - Usar **Expo Go** en el celular
